@@ -1,6 +1,6 @@
 # COMIDILLA
 trabajo
-🍰 Nomeescucha – Recetario de Pasteles con Clima en Tiempo Real
+🍰 COMIDILLA – Recetario de Pasteles con Clima en Tiempo Real
 
 Aplicación Android desarrollada en **Kotlin** con **Jetpack Compose**, que permite gestionar un recetario de pasteles (CRUD completo), almacenar la información de forma local con **Room** y mostrar la **temperatura actual** obtenida desde una **API externa (Open-Meteo)**.  
 Además, integra **notificaciones locales** y **vibración** para mejorar la experiencia de usuario.
