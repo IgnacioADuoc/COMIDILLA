@@ -5,9 +5,8 @@ trabajo
 Aplicación Android desarrollada en **Kotlin** con **Jetpack Compose**, que permite gestionar un recetario de pasteles (CRUD completo), almacenar la información de forma local con **Room** y mostrar la **temperatura actual** obtenida desde una **API externa (Open-Meteo)**.  
 Además, integra **notificaciones locales** y **vibración** para mejorar la experiencia de usuario.
 
-> Proyecto académico para la asignatura de Desarrollo de Aplicaciones Móviles (Evaluación de consumo de API, pruebas y generación de APK).
 
----
+
 
 ## 📲 Funcionalidades principales
 
